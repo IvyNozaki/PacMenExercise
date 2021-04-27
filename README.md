@@ -4,7 +4,7 @@
 
 **PacMan: Feeding Frenzy**
 A mini simulation of an arcade game. The objective of the game is to eat as much pellets as you can.
-![retro style arcade machine](pacman-webpage-clear.png)
+![retro style arcade machine](assets/pacman-webpage.png)
 
 ---
 
@@ -12,26 +12,26 @@ A mini simulation of an arcade game. The objective of the game is to eat as much
 
 There are 3 buttons for the "machine": START, STOP and FEED. The top right of the game screen there is a Score board.
 
-![green, red and blue 3D buttons](pacman-buttons.png)
+![green, red and blue 3D buttons](assets/pacman-buttons.png)
 _3D buttons that flattens when clicked._
-![red button active](active-button.png)
+![red button active](assets/active-button.png)
 
 The **START** button inputs the pacman into the game as well as activate the pellets to drop.
-![screenshot of game](pacman-start.png)
+![screenshot of game](assets/pacman-start.png)
 
 Pacman moves randomly within the the set parameters of the game screen. Snack pellets will randomly drop from the top of the game screen.
 
 The **STOP** button refreshes the game screen.
 
 The **EAT** button is to make Pacman eat the pellet that it is currently in contact with.
-![screenshot of game](pacman-gameplay.png)
+![screenshot of game](assets/pacman-gameplay.png)
 
 The **Score board** will keep the count of pellets eaten by Pacmen.
 
 At start:
-![alt text](pacman-scoreboard.png)
+![alt text](assets/pacman-scoreboard.png)
 Progression:
-![alt text](pacman-scoreboard-4pts.png)
+![alt text](assets/pacman-scoreboard-4pts.png)
 
 ---
 
